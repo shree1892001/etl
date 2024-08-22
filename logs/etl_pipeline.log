@@ -1,0 +1,13 @@
+2024-08-22 15:30:36,550 - INFO - Starting ETL pipeline
+2024-08-22 15:30:36,595 - ERROR - Error in ETL pipeline: [WinError 2] The system cannot find the file specified
+2024-08-22 15:31:17,090 - INFO - Starting ETL pipeline
+2024-08-22 15:31:17,131 - ERROR - Error in ETL pipeline: [WinError 2] The system cannot find the file specified
+2024-08-22 15:36:05,183 - INFO - Starting ETL pipeline
+2024-08-22 15:36:05,214 - ERROR - Error in ETL pipeline: [WinError 2] The system cannot find the file specified
+2024-08-22 15:39:29,317 - INFO - Starting ETL pipeline
+2024-08-22 15:39:29,333 - ERROR - Error in ETL pipeline: [WinError 2] The system cannot find the file specified
+2024-08-22 16:22:59,563 - INFO - Starting ETL pipeline
+2024-08-22 16:22:59,615 - ERROR - Error in ETL pipeline: [WinError 2] The system cannot find the file specified
+2024-08-22 16:45:13,470 - INFO - Starting ETL pipeline
+2024-08-22 16:45:13,470 - INFO - Extracting data from source
+2024-08-22 16:45:13,470 - ERROR - Error in ETL pipeline: 'db'
